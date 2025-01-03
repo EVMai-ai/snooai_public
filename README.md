@@ -27,7 +27,7 @@
 
 ## 🫂|⚙️ Collaborations // Tech Stack
 
-- Twitter AI - [@Eliza](https://x.com/ai16zdao)
+- Twitter AI - [@Eliza](https://x.com/ai16zdao) - (Building our own Stack but using Python just because we are different)
 - Reddit (We made it :P) 👨🏻‍🍳
 - Website (Home made also) 👨🏻‍🍳
 

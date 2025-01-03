@@ -1,0 +1,4 @@
+termcolor
+praw
+python-dotenv
+groq
